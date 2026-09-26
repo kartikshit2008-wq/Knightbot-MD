@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# 🤖 Kartik Editz 
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -47,7 +47,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ## 🚀 Steps to Deploy Bot
 
-### Step 1: Fork the Repository
+### Step 1: Kartik Editz 
 
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
